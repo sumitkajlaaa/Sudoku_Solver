@@ -1,3 +1,3 @@
 # Sudoku-Solver
 
-This is basic JAVA hui application of SUDOKU .
+This is basic JAVA GUI application of SUDOKU .
